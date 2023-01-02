@@ -1,0 +1,7 @@
+#install-flag       app-name                    app-id
+#[true/false]       app name                         winget id
+#============================================================================
+
+false               Python.3.7                  Python.Python.3.7
+
+false               "QQ Music"                  Tencent.QQMusic

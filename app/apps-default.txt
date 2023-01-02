@@ -1,0 +1,42 @@
+#install-flag       app-name                    app-id
+#[true/false]       ...                         winget id
+#============================================================================
+
+# common software
+false               7zip                        7zip.7zip
+false               Everything                  voidtools.Everything
+false               PotPlayer                   Daum.PotPlayer
+false               uTools                      Yuanli.uTools
+false               "HuoRong Security"          XPDNH1FMW7NB40
+
+# Practical Tools
+false               CMake                       Kitware.CMake
+false               Git                         Git.Git
+false               "Virtual Box"               Oracle.VirtualBox
+false               "GitHub Desktop"            GitHub.GitHubDesktop
+false               Postman                     Postman.Postman
+
+# Runtime Env
+false               JavaRuntimeEnvironment      Oracle.JavaRuntimeEnvironment
+false               OpenJDK.17                  Microsoft.OpenJDK.17
+false               NodeJS                      OpenJS.NodeJS
+false               Python.3.7                  Python.Python.3.7
+false               Python.2                    Python.Python.2
+
+# IDE
+false               VSCode                      Microsoft.VisualStudioCode
+false               PyCharm                     JetBrains.PyCharm.Professional
+false               "IntelliJ IDEA"             JetBrains.IntelliJIDEA.Ultimate
+
+# Database
+false               Navicat                     PremiumSoft.NavicatPremium
+false               MySQL                       Oracle.MySQL
+
+# Tencent
+false               QQ                          Tencent.QQ
+false               "QQ Music"                  Tencent.QQMusic
+false               WeChat                      Tencent.WeChat
+
+# Baidu
+false               BaiduNetdisk                Baidu.BaiduNetdisk
+false               BaiduPinyin                 Baidu.BaiduPinyin
